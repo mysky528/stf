@@ -33,7 +33,7 @@
     "prepublish": "bower install && not-in-install && gulp build || in-install"
   },
   "dependencies": {
-    "@slack/client": "^3.5.4",
+    "@slack/client": "^4.0.0",
     "adbkit": "^2.9.2",
     "adbkit-apkreader": "^2.1.1",
     "adbkit-monkey": "^1.0.1",
